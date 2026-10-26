@@ -30,7 +30,8 @@ SELECT, WHERE, GROUP BY, HAVING, ORDER BY, COUNT(DISTINCT), SUM, AVG, DATEDIFF, 
 
 # Organisation du dépôt
 sql/ : requêtes utilisées pour les analyses.
-screenshots/ : exemples de résultats et visualisations, si disponibles.
+<img width="559" height="275" alt="image" src="https://github.com/user-attachments/assets/6d40a820-d313-43aa-a4b8-cbe39e90ca25" />
+
 
  # Conclusion
 Ce projet m’a permis de renforcer ma pratique de SQL sur des problématiques d’analyse commerciale : suivi du chiffre d’affaires, comparaison des performances, classement des clients et produits et analyse temporelle.
