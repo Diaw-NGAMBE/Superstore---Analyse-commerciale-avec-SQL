@@ -30,6 +30,7 @@ SELECT, WHERE, GROUP BY, HAVING, ORDER BY, COUNT(DISTINCT), SUM, AVG, DATEDIFF, 
 
 # Organisation du dépôt
 sql/ : requêtes utilisées pour les analyses.
+Le fichier des requêtes est disponible.
 <img width="559" height="275" alt="image" src="https://github.com/user-attachments/assets/6d40a820-d313-43aa-a4b8-cbe39e90ca25" />
 
 
